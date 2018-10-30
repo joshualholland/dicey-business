@@ -1,0 +1,8 @@
+.cube {
+    width: 40px;
+    height: 40px;
+    float: left;
+    border: 2px solid black;
+    padding: 1em;
+    margin: 3rem;
+};
